@@ -1,6 +1,9 @@
+
 # rag-from-basic
 
 A Python-based RAG (Retrieval-Augmented Generation) pipeline, built step by step.
+
+![image alt](https://github.com/malirakesh/rag-from-basic/blob/d16cb9dd8a9b5c06fd645a2a99a5dcefeac96acf/RAG/assets/RAG_Pipeline.png)
 
 ## Setup
 
