@@ -16,13 +16,13 @@ Copy [RAG/.env.example](RAG/.env.example) to `RAG/.env` and set your `OPENAI_API
 
 ### 1. Data extraction — `RAG/01_data_extraction.py`
 
-Extracts text from all PDF files in [RAG/Learning_Data](RAG/Learning_Data) and writes one `.txt` file per PDF to [RAG/extracted_data](RAG/extracted_data).
+Extracts text from all PDF files in [RAG/Training_Data](RAG/Training_Data) and writes one `.txt` file per PDF to [RAG/extracted_data](RAG/extracted_data).
 
 ```bash
 python RAG/01_data_extraction.py
 ```
 
-- Input: `RAG/Learning_Data/*.pdf`
+- Input: `RAG/Training_Data/*.pdf`
 - Output: `RAG/extracted_data/<pdf_name>.txt`
 - Uses [pypdf](https://pypi.org/project/pypdf/) for text extraction.
 

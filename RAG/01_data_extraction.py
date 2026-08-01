@@ -1,4 +1,4 @@
-"""Step 1: Extract text from PDF files in Learning_Data and save to extracted_data."""
+"""Step 1: Extract text from PDF files in Training_Data and save to extracted_data."""
 
 import logging
 from pathlib import Path
@@ -6,7 +6,7 @@ from pathlib import Path
 from pypdf import PdfReader
 
 BASE_DIR = Path(__file__).resolve().parent
-INPUT_DIR = BASE_DIR / "Learning_Data"
+INPUT_DIR = BASE_DIR / "Training_Data"
 OUTPUT_DIR = BASE_DIR / "extracted_data"
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
