@@ -1,4 +1,8 @@
-"""Step 1: Extract text from PDF files in Training_Data and save to extracted_data."""
+"""Step 1: Extract text from PDF files in Training_Data and save to extracted_data.
+
+Author: Rakesh Kumar Mali
+
+"""
 
 import logging
 from pathlib import Path

@@ -1,4 +1,8 @@
-"""Step 6: Generate a grounded answer from retrieved/augmented context using Claude."""
+"""Step 6: Generate a grounded answer from retrieved/augmented context using Claude.
+
+Author: Rakesh Kumar Mali
+
+"""
 
 import json
 import logging

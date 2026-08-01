@@ -1,4 +1,8 @@
-"""Step 3: Embed chunked data using the OpenAI embeddings API and index with FAISS."""
+"""Step 3: Embed chunked data using the OpenAI embeddings API and index with FAISS.
+
+Author: Rakesh Kumar Mali
+
+"""
 
 import json
 import logging

@@ -1,4 +1,8 @@
-"""Step 2: Split extracted text into ~500-character chunks with overlap and save as JSON."""
+"""Step 2: Split extracted text into ~500-character chunks with overlap and save as JSON.
+
+Author: Rakesh Kumar Mali
+
+"""
 
 import json
 import logging

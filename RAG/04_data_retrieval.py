@@ -1,4 +1,8 @@
-"""Step 4: Retrieve the top matching chunks for a query using the FAISS index."""
+"""Step 4: Retrieve the top matching chunks for a query using the FAISS index.
+
+Author: Rakesh Kumar Mali
+
+"""
 
 import argparse
 import json

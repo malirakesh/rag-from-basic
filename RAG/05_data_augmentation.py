@@ -1,4 +1,8 @@
-"""Step 5: Visualize the augmentation step - combining retrieved context with the user query."""
+"""Step 5: Visualize the augmentation step - combining retrieved context with the user query.
+
+Author: Rakesh Kumar Mali
+
+"""
 
 import argparse
 import json
