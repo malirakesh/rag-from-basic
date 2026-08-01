@@ -147,6 +147,12 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# RAG pipeline generated data
+RAG/extracted_data/
+RAG/chunked_data/
+RAG/embedded_data/
+RAG/augmented_data/
+
 # Environments
 .env
 .envrc
